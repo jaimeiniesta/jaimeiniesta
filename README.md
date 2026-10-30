@@ -14,4 +14,4 @@ I make [Rocket Validator](https://rocketvalidator.com) and write open-source lib
 
 ### Contact
 
-📬 [Bluesky](https://bsky.app/profile/jaimeiniesta.com) · [LinkedIn](https://www.linkedin.com/in/jaimeiniesta)
+📬 [Bluesky](https://bsky.app/profile/jaimeiniesta.com) · [LinkedIn](https://www.linkedin.com/in/jaimeiniesta) · [hola@jaimeiniesta.com](mailto:hola@jaimeiniesta.com)
